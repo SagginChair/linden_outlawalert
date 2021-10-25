@@ -61,7 +61,7 @@ Locate `function notifyAlertSMS` in `esxaddonsgcphone-s.lua`. Below `local messT
 
 
 # Credits:
-
+b
   Jager_bom for esx_outlawalert  
   Stroudy for WF_Alerts https://forum.cfx.re/t/dev-release-standalone-wf-alerts/1029331  
   distritic for Hypaste RP's MDT https://forum.cfx.re/t/esx-hypaste-rps-mobile-data-terminal-reports-warrants-calls-searches-more/1701472/1 
