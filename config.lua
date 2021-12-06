@@ -17,7 +17,7 @@ Config.Default911 = true
 Config.Debug = false
 
 -- sets report chance to 100%
-Config.DebugChance = true
+Config.DebugChance = false
 
 -- enable default alerts
 Config.Enable.Speeding = false
